@@ -1,5 +1,4 @@
 :root{
-    /*Aqui van las variables*/
     --bitcoin-orange:#f7931a;
     --soft-orange:#ffe9d5;
     --secondary-blue:#1a9af7;
@@ -211,7 +210,7 @@ main{
     width: 15px;
     height: 15px;
     margin-left: 10px;
-    background-image: url("./assets/iconos/trending-down.svg");
+    background-image: url(../assets/iconos/trending-down.svg);
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
@@ -222,7 +221,7 @@ main{
     width: 15px;
     height: 15px;
     margin-left: 10px;
-    background-image: url("./assets/iconos/trending-up.svg");
+    background-image: url(../assets/iconos/trending-up.svg);
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
